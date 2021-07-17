@@ -1,10 +1,16 @@
 **Basic Information**
+
 The Game's Name(Eng): **Plane Battle**
+
 The Game's Name(CH):  **飞机大战**
+
 Production Time: 2021.7
+
 Producer: **Reincarnation Cyan Ink**(**轮回青墨**)
 
+
 Language: Python
+
 Game Engine: Pygame
 
 **How To Play:**
