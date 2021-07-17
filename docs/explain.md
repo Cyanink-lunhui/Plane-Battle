@@ -17,15 +17,15 @@ Game Engine: Pygame
 
 [MOVE]
 
-    You can **press the keyboard** to control the plane move.
+    You can press the keyboard to control the plane move.
     
-    The key '**↑**' is to control the plane to move up.
+    The key '↑' is to control the plane to move up.
     
-    The key '**↓**' is to control the plane to move down.
+    The key '↓' is to control the plane to move down.
     
-    The key '**←**' is to control the plane to move left.
+    The key '←' is to control the plane to move left.
     
-    The key '**→**' is to control the plane to move right.
+    The key '→' is to control the plane to move right.
     
     It's very easy to control the plane.
     
